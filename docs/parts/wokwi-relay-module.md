@@ -22,7 +22,7 @@ Electrically operated switch
 
 | Name       | Description                               | Default value |
 | ---------- | ----------------------------------------- | ------------- |
-| transistor | "npn" (active-high) or "pnp" (active-low) | "npn"         |
+| transistor | "npn" (active-high) or "pnp" (active-low) | "pnp"|
 
 ## Operation
 
